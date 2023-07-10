@@ -6,7 +6,7 @@ All credits go to [Mr. EamonDang](https://github.com/eamondang), Mr. EamonDang's
 
 After you've cloned from Mr. EamonDang repository and before you build his project. If you are on Windows Subsystem for Linux, you **must** perform these steps:
 - Go to Makefile.toml and change all `zsh` to `bash`.
-- Install `pnpm` for admin by typing `sudo npm i pnpm`.
+- Install `pnpm` globally for admin by typing `sudo npm i -g pnpm`.
 
 After performing all of the above steps, you can build and run Mr. EamonDang's project.
 
