@@ -18,11 +18,11 @@ This project was run and tested on WSL1, so I highly advise you to do the same.
 
 You **must** install Node.js and Rust. I highly recommend Node@v16 and Rust@v1.69 for stability.
 
-You **must** install `pnpm` at **admin level** by performing the command `sudo npm i pnpm`. Check if `pnpm` is installed correctly by performing the command `npm list -g` if `pnpm` is listed then you have installed `pnpm` correctly. 
+You **must** install `pnpm` globally at **admin level** by performing the command `sudo npm i -g pnpm`. Check if `pnpm` is installed correctly by performing the command `npm list -g` if `pnpm` is listed then you have installed `pnpm` correctly. 
 
 You **must** install Cargo Make by performing the command `cargo install cargo-make`.
 
-You **must** install `near-cli` by performing the command `npm install -g near-cli`.
+You **must** install `near-cli` globally at **admin level** by performing the command `sudo npm install -g near-cli`.
 
 ## Step by Step
 
